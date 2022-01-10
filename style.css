@@ -1,0 +1,17 @@
+textarea {
+    /* outline: none; */
+    display: block;
+    margin: 1rem;
+    width: 70vw;
+    height: 20vh;
+    padding: 1rem;
+}
+
+#btn-translate {
+    background: transparent;
+    border-radius: 12px;
+    height: 5vh;
+    width: 20vw;
+    font-size: larger;
+    margin-left: 25vw;
+}
