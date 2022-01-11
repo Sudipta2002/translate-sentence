@@ -1,17 +1,38 @@
-textarea {
-    /* outline: none; */
-    display: block;
-    margin: 1rem;
-    width: 70vw;
-    height: 20vh;
-    padding: 1rem;
-}
-
-#btn-translate {
-    background: transparent;
-    border-radius: 12px;
-    height: 5vh;
-    width: 20vw;
-    font-size: larger;
-    margin-left: 25vw;
-}
+    textarea {
+        /* outline: none; */
+        display: block;
+        margin: 1rem;
+        width: 70vw;
+        height: 20vh;
+        padding: 1rem;
+        background-color: aquamarine;
+    }
+    
+    .translation-box {
+        background-color: red;
+    }
+    
+    #translated-box {
+        background-color: red;
+    }
+    
+    .header h1 {
+        font-size: 40px;
+        background-color: blue;
+    }
+    
+    #btn-translate {
+        background: transparent;
+        border-radius: 12px;
+        height: 5vh;
+        width: 20vw;
+        font-size: larger;
+        margin-left: 25vw;
+        cursor: pointer;
+    }
+    
+    .footer h1 {
+        background-color: aquamarine;
+        padding: 25px;
+        /* margin-left: 30rem; */
+    }
